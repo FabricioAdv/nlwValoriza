@@ -1,6 +1,6 @@
 ## NLW Valoriza
 
-Desenvolvimento de uma API para controle de usuarios e elogios
+Desenvolvimento de uma API para controle de usuarios e elogios em TypeScript usando nodeJS
 
 ## Regras
 
